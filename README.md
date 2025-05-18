@@ -1,5 +1,34 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm Febrianto, a Software Engineering student passionate about mobile development and technology!<br><br>### About Me<br>- 🌱 I'm currently learning Mobile Development with Flutter<br>- 💻 I'm proficient in:<br>  - Mobile Development: Flutter, Dart<br>  - Version Control: Git<br>  - Database: MariaDB<br>- 👨‍🎓 Currently in my 6th semester of Software Engineering studies<br>- 📱 Focused on creating intuitive and efficient mobile applications<br><br>### Current Project<br>Working on a mobile application that aims to help manage workforce efficiently. The project utilizes:<br>- Flutter for cross-platform development<br>- SQLite for local data storage<br>- Various Flutter plugins for enhanced functionality<br><br>### Get in Touch<br>- 📫 You can reach me through:<br>  - GitHub: [@febriantok29](https://github.com/febriantok29)<br><br>### Fun Facts<br>- ⚡ I enjoy exploring new mobile development technologies<br>- 🌟 Always excited to learn about new Flutter features and best practices<br><br>---<br>Feel free to check out my repositories and don't hesitate to reach out for collaborations!<br>
+## Hi there 👋
+
+I'm Febrianto, a Software Engineering student passionate about mobile development and technology!
+
+### About Me
+- 🌱 I'm currently learning Mobile Development with Flutter
+- 💻 I'm proficient in:
+  - Mobile Development: Flutter, Dart
+  - Version Control: Git
+  - Database: MariaDB
+- 👨‍🎓 Currently in my 6th semester of Software Engineering studies
+- 📱 Focused on creating intuitive and efficient mobile applications
+
+### Current Project
+Working on a mobile application that aims to help manage workforce efficiently. The project utilizes:
+- Flutter for cross-platform development
+- SQLite for local data storage
+- Various Flutter plugins for enhanced functionality
+
+### Get in Touch
+- 📫 You can reach me through:
+  - GitHub: [@febriantok29](https://github.com/febriantok29)
+
+### Fun Facts
+- ⚡ I enjoy exploring new mobile development technologies
+- 🌟 Always excited to learn about new Flutter features and best practices
+
+---
+Feel free to check out my repositories and don't hesitate to reach out for collaborations!
+
 
 
 ## 🌐 Socials:
